@@ -12,9 +12,12 @@ npm init 构建package文件夹
 
 2. https://blog.csdn.net/Kevin_Leung_/article/details/129301584?spm=1001.2101.3001.6650.2&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7Ebaidujs_baidulandingword%7ECtr-2-129301584-blog-130110455.235%5Ev43%5Epc_blog_bottom_relevance_base5&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7Ebaidujs_baidulandingword%7ECtr-2-129301584-blog-130110455.235%5Ev43%5Epc_blog_bottom_relevance_base5&utm_relevant_index=5
 3. 
-4. 问题1: **Cannot use import statement outside a module**， 参考：https://juejin.cn/post/7353447472557637695
+4. 问题1: **Cannot use import statement outside a module**， 参考：https://juejin.cn/post/7353447472557637695d
+4. 问题1: **子应用图片出不来**， 参考：https://blog.csdn.net/weixin_45325141/article/details/126622971
 
 ### 过程：
 1. 先创建主应用（使用CRA命令）： https://cra.nodejs.cn/docs/getting-started/#npm， 我看项目没有引入vite，应该是webpack构建的。
 2. 再创建子应用：核心就是改变react启动时渲染的部分。
+
+### 效果图：
 
