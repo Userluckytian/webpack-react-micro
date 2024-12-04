@@ -21,4 +21,4 @@ npm init 构建package文件夹
 
 ### 效果图：
 
-![效果图]([./img/1.png](https://ibb.co/sQ1qYg4))
+![效果图](https://ibb.co/sQ1qYg4)
